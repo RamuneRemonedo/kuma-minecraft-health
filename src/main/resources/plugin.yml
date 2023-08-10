@@ -1,0 +1,4 @@
+name: kuma-minecraft-health
+version: '${project.version}'
+main: net.ramune.kumaminecrafthealth.KumaMinecrafHealth
+api-version: '1.20'
